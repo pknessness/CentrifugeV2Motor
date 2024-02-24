@@ -79,3 +79,7 @@
 5783	6359	7304426431524798	CMakeFiles/motor_run.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj	5f5e742760c91c57
 56	293	7304430627025051	CMakeFiles/motor_run.dir/motor_run.c.obj	a928d6a9e3bb6528
 294	761	7304430629834957	motor_run.elf	132b6311c9c1c8f9
+39	273	7304433094546816	CMakeFiles/motor_run.dir/motor_run.c.obj	a928d6a9e3bb6528
+274	718	7304433097276769	motor_run.elf	132b6311c9c1c8f9
+95	322	7304433836390808	CMakeFiles/motor_run.dir/motor_run.c.obj	a928d6a9e3bb6528
+323	776	7304433839100369	motor_run.elf	132b6311c9c1c8f9

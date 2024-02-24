@@ -29,7 +29,7 @@ int main() {
         sleep_ms(3000);
         gpio_put(LED_PIN, 0);
         sleep_ms(250);
-        printf("Hello, world!\n");
+        printf("hello, world!\n");
     }
 #endif
 }
